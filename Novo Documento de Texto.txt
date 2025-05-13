@@ -1,9 +1,0 @@
-[400 BAD_REQUEST Erro no endpoint SalesForce Scheduling. - Nenhum asset comercial encontrado para esse conta]
-
-[404 NOT_FOUND Erro no endpoint SalesForce Scheduling. - Nenhuma conta encontrada com o LegacyId informado]
-
-[500 INTERNAL_SERVER_ERROR Erro no endpoint SalesForce Scheduling. - FIELD_CUSTOM_VALIDATION_EXCEPTION, É necessário preencher os campos de endereço]
-
-[500 INTERNAL_SERVER_ERROR Erro no endpoint SalesForce Scheduling. - Insert failed.]
-
-[Failed Scheduling SalesForce - FIELD_CUSTOM_VALIDATION_EXCEPTION, Já existe uma OS ativa para esse Contrato]
