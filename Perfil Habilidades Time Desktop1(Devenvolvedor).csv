@@ -1,0 +1,107 @@
+Atividades Executadas na Desktop,,,
+Nivel,Função,Atividade ,Complete o seu nome
+Pleno,Arquiteto Soluções,Apoiar o levantamento de requisitos técnicos e funcionais com stakeholders,n/a
+Pleno,Arquiteto Soluções,Desenvolver e documentar arquiteturas de sistemas de acordo com padrões estabelecidos,n/a
+Pleno,Arquiteto Soluções,Selecionar tecnologias adequadas para novos projetos,n/a
+Pleno,Arquiteto Soluções,Elaborar diagramas e fluxos de arquitetura de soluções,Conhece
+Pleno,Arquiteto Soluções,Auxiliar no design de integração entre sistemas,n/a
+Pleno,Arquiteto Soluções,Revisar e validar propostas técnicas da equipe de desenvolvimento,n/a
+Pleno,Arquiteto Soluções,Participar de reuniões técnicas e de alinhamento com outros times,Executa
+Pleno,Arquiteto Soluções,Apoiar a definição de boas práticas de desenvolvimento,n/a
+Pleno,Arquiteto Soluções,Garantir aderência a regras de segurança e compliance,n/a
+Pleno,Arquiteto Soluções,Resolver problemas técnicos de média complexidade,Executa
+Senior,Arquiteto Soluções,Liderar a definição de arquiteturas complexas e escaláveis,n/a
+Senior,Arquiteto Soluções,"Tomar decisões estratégicas sobre padrões, tecnologias e integrações",n/a
+Senior,Arquiteto Soluções,Definir diretrizes e padrões arquiteturais corporativos,n/a
+Senior,Arquiteto Soluções,Realizar análise de impacto de soluções em ambientes existentes,Executa
+Senior,Arquiteto Soluções,Capacitar equipes técnicas em arquiteturas e tecnologias emergentes,n/a
+Senior,Arquiteto Soluções,"Garantir aderência a requisitos de performance, segurança e escalabilidade",n/a
+Senior,Arquiteto Soluções,Aprovar especificações técnicas e validar soluções propostas,n/a
+Senior,Arquiteto Soluções,Facilitar discussões técnicas de alto nível com times multidisciplinares,n/a
+Senior,Arquiteto Soluções,Apoiar direção de tecnologia em estratégias e roadmaps,n/a
+Senior,Arquiteto Soluções,Atuar como referência para resolução de problemas técnicos críticos,n/a
+Senior,Teach Lead,Orientar e apoiar tecnicamente a equipe de desenvolvimento,n/a
+Senior,Teach Lead,Definir padrões de codificação e boas práticas,Conhece
+Senior,Teach Lead,Realizar revisões de código e garantir qualidade técnica das entregas,n/a
+Senior,Teach Lead,Planejar e distribuir tarefas técnicas para o time,n/a
+Senior,Teach Lead,Ser referência em soluções técnicas e resolução de problemas complexos,n/a
+Senior,Teach Lead,Avaliar e propor melhorias arquiteturais em projetos existentes,n/a
+Senior,Teach Lead,Facilitar integração e comunicação entre desenvolvedores e outras áreas,n/a
+Senior,Teach Lead,Atuar na avaliação e adoção de novas tecnologias,n/a
+Senior,Teach Lead,Promover cultura de testes automáticos e integração contínua,n/a
+Senior,Teach Lead,Apoiar no desenvolvimento e capacitação técnica dos membros da equipe,n/a
+Junior,Dev Backend,Realizar manutenção e correção de bugs em sistemas existentes,Executa
+Junior,Dev Backend,Desenvolver funcionalidades simples seguindo especificações fornecidas,Executa
+Junior,Dev Backend,Escrever código seguindo padrões definidos pelo time,Executa
+Junior,Dev Backend,Executar e acompanhar testes unitários básicos,n/a
+Junior,Dev Backend,Participar de reuniões de acompanhamento e alinhamento,Executa
+Junior,Dev Backend,Documentar funcionalidades entregues,Conhece
+Junior,Dev Backend,Apoiar no suporte de sistemas em produção,n/a
+Junior,Dev Backend,Solicitar orientação para problemas técnicos mais complexos,Executa
+Junior,Dev Backend,Cumprir prazos de desenvolvimento estabelecidos,Executa
+Junior,Dev Backend,Aprender e aplicar boas práticas de desenvolvimento backend,Executa
+Pleno,Dev Backend,Desenvolver e manter APIs e serviços backend,Executa
+Pleno,Dev Backend,Implementar novas funcionalidades com foco em desempenho e escalabilidade,Executa
+Pleno,Dev Backend,Realizar análise e documentação de requisitos técnicos,Conhece
+Pleno,Dev Backend,Corrigir bugs e otimizar processos existentes,Executa
+Pleno,Dev Backend,Realizar integração de sistemas e serviços externos,Executa
+Pleno,Dev Backend,Escrever testes automatizados (unitários e de integração),n/a
+Pleno,Dev Backend,Participar de revisões de código e sugerir melhorias,n/a
+Pleno,Dev Backend,Auxiliar no desenho da arquitetura backend,n/a
+Pleno,Dev Backend,Apoiar desenvolvedores juniores em questões técnicas,n/a
+Pleno,Dev Backend,Garantir qualidade e consistência do código produzido,Executa
+Senior,Dev Backend,Projetar e implementar arquiteturas robustas e escaláveis no backend,n/a
+Senior,Dev Backend,Liderar a definição de padrões de desenvolvimento e melhores práticas,n/a
+Senior,Dev Backend,Realizar revisões de código em alto volume e complexidade,n/a
+Senior,Dev Backend,Diagnosticar e resolver problemas de performance e segurança,Executa
+Senior,Dev Backend,Participar ativamente da definição técnica de novos projetos,Executa
+Senior,Dev Backend,Integrar sistemas complexos com múltiplos serviços,n/a
+Senior,Dev Backend,Orientar e mentorar desenvolvedores menos experientes,n/a
+Senior,Dev Backend,Propor e implementar soluções inovadoras em backend,n/a
+Senior,Dev Backend,Otimizar processos de deploy e integração contínua,n/a
+Senior,Dev Backend,Apoiar decisões estratégicas de tecnologia na área backen,n/a
+Pleno,Dev Frontend,Desenvolver interfaces de usuário responsivas e acessíveis,n/a
+Pleno,Dev Frontend,Implementar novas funcionalidades conforme especificações de UX/UI,n/a
+Pleno,Dev Frontend,Realizar manutenção de código e correção de bugs em aplicações web,Executa
+Pleno,Dev Frontend,Garantir compatibilidade cross-browser e responsividade,n/a
+Pleno,Dev Frontend,Escrever testes automatizados para componentes frontend,n/a
+Pleno,Dev Frontend,Executar integração de APIs e consumo de dados externos,Executa
+Pleno,Dev Frontend,Auxiliar na definição de padrões e melhores práticas de frontend,n/a
+Pleno,Dev Frontend,Participar de revisões de código e sugerir melhorias,n/a
+Pleno,Dev Frontend,Documentar componentes e fluxos de interface desenvolvidos,n/a
+Pleno,Dev Frontend,Colaborar com equipes de design e backend para soluções integradas,n/a
+Junior,Dev FullStack,Desenvolver funcionalidades básicas tanto no frontend quanto no backend,Executa
+Junior,Dev FullStack,Corrigir bugs em ambas as camadas sob orientação,Executa
+Junior,Dev FullStack,Escrever código seguindo especificações e padrões definidos pela equipe,Executa
+Junior,Dev FullStack,Realizar testes unitários e documentar funcionalidades desenvolvidas,n/a
+Junior,Dev FullStack,Apoiar manutenção de sistemas existentes fullstack,Executa
+Junior,Dev FullStack,Participar de reuniões de standup e alinhamento com o time,Executa
+Junior,Dev FullStack,Solicitar suporte para atividades mais complexas,Executa
+Junior,Dev FullStack,Ajudar na integração de sistemas e APIs simples,Executa
+Junior,Dev FullStack,Aprender e aplicar melhores práticas em ambas as camadas,Executa
+Junior,Dev FullStack,Cumprir prazos de entrega sob supervisão,Executa
+Pleno,Dev FullStack,"Desenvolver funções completas, do frontend ao backend, com autonomia",n/a
+Pleno,Dev FullStack,Integrar sistemas e APIs complexas,n/a
+Pleno,Dev FullStack,Garantir consistência de dados entre as camadas,n/a
+Pleno,Dev FullStack,Propor e implementar soluções inovadoras em ambas as áreas,n/a
+Pleno,Dev FullStack,Escrever e aplicar testes automatizados fullstack,n/a
+Pleno,Dev FullStack,Participar de revisões de código e orientar desenvolvedores juniores,n/a
+Pleno,Dev FullStack,Otimizar desempenho e segurança das aplicações end-to-end,n/a
+Pleno,Dev FullStack,Auxiliar na arquitetura e documentação de sistemas fullstack,n/a
+Pleno,Dev FullStack,Colaborar estreitamente com designers e especialistas backend/frontend,n/a
+Pleno,Dev FullStack,Gerenciar entrega técnica de funcionalidades complexas,n/a
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
